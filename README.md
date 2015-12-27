@@ -30,8 +30,11 @@ GIF created with [CloudConvert](https://cloudconvert.com/mov-to-gif).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 -Recording Gif (Could not install LiceCap)
+
 -Pushing to Github
+
 -Animating the text
 
 ## License
