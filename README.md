@@ -21,7 +21,7 @@ The following features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="//giphy.com/embed/W3gWRV18Ce8xO" width="480" height="872" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/W3gWRV18Ce8xO">via GIPHY</a></p>
+<div style="max-width: 500px;" id="_giphy_W3gWRV18Ce8xO"></div><script>var _giphy = _giphy || []; _giphy.push({id: "W3gWRV18Ce8xO",w: 264, h: 480, clickthrough_url: "https://giphy.com/gifs/W3gWRV18Ce8xO"});var g = document.createElement("script"); g.type = "text/javascript"; g.async = true;g.src = ("https:" == document.location.protocol ? "https://" : "http://") + "giphy.com/static/js/widgets/embed.js";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(g, s);</script>
 
 GIF created with Giphy.
 
