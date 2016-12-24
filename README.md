@@ -5,7 +5,7 @@ tips is a tip calculator application for iOS.
 
 Submitted by: Apurva
 
-Time spent: 6 hours spent in total
+Time spent: 5 hours spent in total
 
 ## User Stories
 
@@ -13,8 +13,6 @@ The following **required** functionality is complete:
 * User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following features are implemented:
-- Color implementation for easy viewing in dim lighting restaurants
-- App icon personalization
 - Adjusted tint of text for clear sight
 - Split bill option for easy bill dividing
 
@@ -23,23 +21,19 @@ The following features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/JVLMrYT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src="//giphy.com/embed/W3gWRV18Ce8xO" width="480" height="872" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/W3gWRV18Ce8xO">via GIPHY</a></p>
 
-GIF created with [CloudConvert](https://cloudconvert.com/mov-to-gif).
+GIF created with Giphy.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
--Recording Gif (Could not install LiceCap)
 
--Pushing to Github
-
--Animating the text
 
 ## License
 
-    Copyright [2015] [Apurva Shah]
+    Copyright [2016] [Apurva Shah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
