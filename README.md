@@ -21,7 +21,7 @@ The following features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="//giphy.com/embed/W3gWRV18Ce8xO" width="480" height="872" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/W3gWRV18Ce8xO">via GIPHY</a></p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Zo6sl"><a href="//imgur.com/Zo6sl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with Giphy.
 
